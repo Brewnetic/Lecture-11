@@ -1,5 +1,5 @@
 // ============================================
-// LECTURE 10: Collections Framework & ArrayList
+// LECTURE 11: Collections Framework & ArrayList
 // Gaming Inventory System
 // ============================================
 
@@ -9,7 +9,7 @@ import _________________;
 // TODO: Import Scanner
 import _________________;
 
-public class Lecture10 {
+public class Lecture11 {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
